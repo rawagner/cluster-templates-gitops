@@ -1,7 +1,7 @@
 apiVersion: clustertemplate.openshift.io/v1alpha1
 kind: ClusterTemplateInstance
 metadata:
-  name: mycluster2
+  name: mycluster3
   namespace: devuserns
 spec:
   template: 1bm
