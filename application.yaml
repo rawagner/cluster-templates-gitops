@@ -12,3 +12,5 @@ spec:
     path: devuserns-clusters
     repoURL: https://github.com/rawagner/cluster-templates-gitops
     targetRevision: HEAD
+  syncPolicy:
+    automated: {}
