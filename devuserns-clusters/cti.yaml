@@ -7,3 +7,4 @@ spec:
   template: 1bm
   values:
     argocdapp: https://raw.githubusercontent.com/rawagner/cluster-setup/main/argocd/application.yaml
+    email: rawagner@redhat.com
